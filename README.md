@@ -2,7 +2,7 @@
 Simple library to generate and view PDF in Android
 
 ***
-[![](https://jitpack.io/v/tejpratap46/PDFCreatorAndroid.svg)](https://jitpack.io/#tejpratap46/PDFCreatorAndroid) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PDFCreatorAndroid-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/8182)
+[![](https://jitpack.io/v/tejpratap46/PDFCreatorAndroid.svg)](https://jitpack.io/#SmitCoderX/PDFCreatorAndroid) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PDFCreatorAndroid-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/8182)
 ***
 
 ![Cover](https://github.com/tejpratap46/PDFCreatorAndroid/raw/master/cover1.png)
